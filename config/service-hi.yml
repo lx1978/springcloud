@@ -7,4 +7,4 @@ server:
 spring:
   application:
     name: service-hi
-git: https://github.com/lx1978/springcloud12
+git: https://github.com/lx1978/springcloud34
